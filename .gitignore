@@ -1,4 +1,5 @@
 __pycache__/
 modsim.py
 .idea/
+.vscode/
 .ipynb_checkpoints/
